@@ -19,11 +19,11 @@ Proyek Landing Page Vaporista adalah halaman depan yang dirancang dengan estetik
 
 ## Installation
 
-Install my-project with git
+Install landing-page-vaporista with git
 
 ```bash
   git clone https://github.com/abdulhafiztarmizi16/landing-page-vaporista.git
-  cd cd my-project
+  cd landing-page-vaporista
   Done
 ```
     
